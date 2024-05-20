@@ -1,5 +1,3 @@
-// Need to add display of players choice and computers choice before 
-// displaying the winner.
 // Also, need to add a delay before choice and need to loop to continue to 5.
 // Finnally, need to account for typos in user input/prompt. 
 let computerSelection;
